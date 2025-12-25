@@ -62,8 +62,8 @@ fancy_bar "Dependencies installed" 2
 # =======================
 # Check main file
 # =======================
-if [ ! -f "junn.py" ]; then
-    echo -e "${RED}[ERROR]${NC} junn.py not found!"
+if [ ! -f "bot.py" ]; then
+    echo -e "${RED}[ERROR]${NC} bot.py not found!"
     exit 1
 fi
 
