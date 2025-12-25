@@ -613,7 +613,7 @@ Fitur terbagi menjadi dua bagian utama:
 <u>═━═「 𝗨𝗣𝗗𝗔𝗧𝗘 𝗩𝗘𝗥𝗦𝗜 𝟭.𝟬.𝟮 」═━═</u>
 • Tombol interaktif untuk navigasi lebih cepat  
 • Fitur tambahan dengan API khusus  
-• Semua fitur resmi dari <a href="https://t.me/PraiOfficial">Vinn Official</a>  
+• Semua fitur resmi dari <a href="https://t.me/PraiOfficial">Anam official</a>  
 
 💡 Tip: Klik tombol untuk melihat fitur dan panduan penggunaannya.  
 ═══════════════════════════
