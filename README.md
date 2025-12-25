@@ -28,7 +28,7 @@ Bantu share script / repositori ini ke teman kalian dan gunakan Userbot dengan f
 pkg update && pkg upgrade
 pkg install git -y
 git clone https://github.com/anamofficial1/Userbot-VVIP.git
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 > ⚠️ Ingat! Jika kamu tidak menginstal `git`, maka clone repositori akan gagal.  
